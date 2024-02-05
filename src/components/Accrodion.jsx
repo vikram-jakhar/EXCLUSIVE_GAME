@@ -19,7 +19,7 @@ const AccordionSec = () => {
     return (
         <div className='max-w-[970px] mx-auto px-3'>
             <div className='py-[40px] sm:py-[150px]'>
-                <h2 className=' text-[36px] sm:text-5xl font-anton sm:leading-[120%] font-normal text-center pb-[20px] sm:pb-[60px] text-white'>Preguntas más frecuentes</h2>
+                <h2 className=' text-[36px] sm:text-5xl font-anton sm:leading-[120%] font-normal text-center pb-[20px] sm:pb-[60px] text-white uppercase '>Preguntas más frecuentes</h2>
                 <Accordion className=" border-[#80898D] border mb-4 rounded-[10px] py-4 px-5" open={open === 1} icon={<Icon id={1} open={open} />}                >
                     <AccordionHeader onClick={() => handleOpen(1)} className="font-anton text-[20px] sm:text-[16px] md:text-[20px] py-0 text-start font-normal text-white leading-[130%] " >¿Cuáles son las ventajas de elegir Juegos Exclusivos para mis plataformas de juegos?</AccordionHeader>
                     <AccordionBody className="font-inter text-base md:text-[16px] font-medium sm:leading-[160%] text-[#CCD0D1] max-w-[880px] pt-2 pb-0 ">En Exclusive Games, ofrecemos experiencias únicas y personalizadas, respaldadas por más de 15 años de dedicación al desarrollo de multiplataformas para juegos de azar.</AccordionBody>
