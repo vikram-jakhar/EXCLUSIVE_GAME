@@ -4,7 +4,7 @@ import jarvis from '../assets/img/jarvis.png'
 import lucky from '../assets/img/lucky.png'
 import summer from '../assets/img/summer.png'
 import CasinoRIP from '../assets/img/CasinoRIP.png'
-import { Arrow, Arrow2, Bulb, ButtonBottom, Innovación, Proactividad } from './Svg'
+import { Arrow, Arrow2, Bulb, ButtonBottom, Innovación, Proactividad } from './SvgFileOnly'
 import Comanbtntwo from './ComanbtnSec'
 
 const NuestrosAtributos = () => {

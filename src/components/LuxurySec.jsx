@@ -3,7 +3,7 @@ import ludo from "../assets/img/ludo.png"
 import paanA from "../assets/img/paanA.png"
 import greebcoian from "../assets/img/greencoain.png"
 import eatA from "../assets/img/eatA.png"
-import { DubleTick } from './Svg'
+import { DubleTick } from './SvgFileOnly'
 import Comanbtntwo from './ComanbtnSec'
 
 const LuxurySec = () => {

@@ -1,6 +1,6 @@
 import React from 'react'
 import Triple7 from '../assets/img/trple7im.png'
-import { Bulb, ClientesSvg, DivisasSvg } from './Svg.jsx'
+import { Bulb, ClientesSvg, DivisasSvg } from './SvgFileOnly.jsx'
 
 const Triplesaven = () => {
     return (

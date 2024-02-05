@@ -1,5 +1,5 @@
 import React from 'react'
-import { DubleTick } from './Svg'
+import { DubleTick } from './SvgFileOnly'
 import Comanbtn from './Comanbtn'
 import Group_img from '../assets/img/Group-card-img.png'
 

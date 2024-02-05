@@ -4,7 +4,7 @@ import Zugi from '../assets/img/Zugi.png'
 import Roulette from '../assets/img/Roulette.png'
 import Betting from '../assets/img/Betting.png'
 import Comanbtn from './Comanbtn'
-import { DubleTick } from './Svg'
+import { DubleTick } from './SvgFileOnly'
 const JuegosVivo = () => {
     return (
         <>

@@ -1,6 +1,6 @@
 import React from 'react'
 import casino from '../assets/img/casino.png'
-import { DubleTick } from './Svg'
+import { DubleTick } from './SvgFileOnly'
 import Comanbtn from './Comanbtn'
 import CasnoSdwo from '../assets/img/Casniosdwo.png'
 
