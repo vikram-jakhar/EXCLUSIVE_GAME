@@ -1,8 +1,8 @@
 import React from 'react'
-import casino from '../assets/img/casino.png'
+import casino from '../assets/img/casino.webp'
 import { DubleTick } from './SvgFileOnly'
 import Comanbtn from './Comanbtn'
-import CasnoSdwo from '../assets/img/Casniosdwo.png'
+import CasnoSdwo from '../assets/img/Casniosdwo.webp'
 
 const Nuestras = () => {
     return (

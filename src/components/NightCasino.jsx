@@ -1,10 +1,10 @@
 import React from "react";
-import night from "../assets/img/nightCasino.png";
+import night from "../assets/img/nightCasino.webp";
 import Comanbtntwo from "./ComanbtnSec";
 
 const NightCasino = () => {
     return (
-        <div className="  bg-[url(../src/assets/img/nightcasinobgimg.png)] min-[1441px]:bg-white bg-no-repeat bg-center bg-cover py-[150px] sm:py-[340px]">
+        <div className="  bg-[url(../src/assets/img/nightcasinobgimg.webp)] min-[1441px]:bg-white bg-no-repeat bg-center bg-cover py-[150px] sm:py-[340px]">
             <div className="max-w-[1140px] px-3 mx-auto ">
                 <div className=" grid lg:grid-cols-2 grid-cols-1 gap-7 sm:gap-11">
                     <div className=" flex flex-col justify-center">

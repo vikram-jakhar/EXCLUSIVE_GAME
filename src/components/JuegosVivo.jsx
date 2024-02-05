@@ -1,14 +1,14 @@
 import React from 'react'
-import Jackpot from "../assets/img/Jackpot.png"
-import Zugi from '../assets/img/Zugi.png'
-import Roulette from '../assets/img/Roulette.png'
-import Betting from '../assets/img/Betting.png'
+import Jackpot from "../assets/img/Jackpot.webp"
+import Zugi from '../assets/img/Zugi.webp'
+import Roulette from '../assets/img/Roulette.webp'
+import Betting from '../assets/img/Betting.webp'
 import Comanbtn from './Comanbtn'
 import { DubleTick } from './SvgFileOnly'
 const JuegosVivo = () => {
     return (
         <>
-            <div className='bg-[url(../src/assets/img/jacpotbgimg.png)]  bg-no-repeat bg-cover bg-center overflow-hidden'>
+            <div className='bg-[url(../src/assets/img/jacpotbgimg.webp)]  bg-no-repeat bg-cover bg-center overflow-hidden'>
                 <div className=' max-w-[1140px] px-3 mx-auto sm:pt-[90px] '>
                     <div className=' grid lg:grid-cols-2 gap-2 sm:gap-7'>
                         <div className='col-span-1 '>
@@ -42,7 +42,7 @@ const JuegosVivo = () => {
                             <p className='text-base font-medium font-inter leading-[25.6px] text-[#CDD0D1] pt-2 sm:pt-6'>Te reintegramos todo lo invertido en fichas en la moneda que elijas..</p>
                         </div>
                     </div>
-                    <div className=' max-w-[1068px] mx-auto px-3 bg-[url(../src/assets/img/Semanasbgimg.png)] bg-no-repeat bg-center bg-cover min-h-[308px] flex items-center justify-center my-[25px] sm:my-[50px] md:my-[100px] lg:my-[150px] border border-[#fff] rounded-[16px]'>
+                    <div className=' max-w-[1068px] mx-auto px-3 bg-[url(../src/assets/img/Semanasbgimg.webp)] bg-no-repeat bg-center bg-cover min-h-[308px] flex items-center justify-center my-[25px] sm:my-[50px] md:my-[100px] lg:my-[150px] border border-[#fff] rounded-[16px]'>
                         <h2 className='text-[48px] font-normalfont-anton sm:leading-[57px] text-center text-white max-w-[520px] mx-auto'>lanza tu propia plataforma en sólo 2 semanas</h2>
                     </div>
                 </div>

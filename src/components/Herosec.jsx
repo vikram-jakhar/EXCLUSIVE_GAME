@@ -5,7 +5,7 @@ import Navbar from './Navsec'
 
 const HeroSection = () => {
     return (
-        <div className='bg-[url(../src/assets/img/Herobgimg.png)] bg-cover bg-no-repeat lg:h-screen bg-center'>
+        <div className='bg-[url(../src/assets/img/Herobgimg.webp)] bg-cover bg-no-repeat lg:h-screen bg-center'>
             <Navbar />
             <div className='max-w-[1140px] mx-auto px-3 flex flex-col items-center py-[20px] sm:py-[50px] lg:pt-[140px] '>
                 <h1 className='text-center max-w-[505px] uppercase font-[Anton] font-normal text-[72px] text-[#FFFFFF] leading-[86px] max-md:text-[54px] max-sm:text-[40px] max-sm:leading-normal max-md:leading-[65px]'>Exclusive Games. Pasión por ganar</h1>

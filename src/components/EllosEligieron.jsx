@@ -1,7 +1,7 @@
 import React from 'react'
-import BlackJack from "../assets/img/Black-Jack1.png"
-import Europeanroulette from "../assets/img/European-roulette1.png"
-import Livebetting from "../assets/img/Live-betting1.png"
+import BlackJack from "../assets/img/Black-Jack1.webp"
+import Europeanroulette from "../assets/img/European-roulette1.webp"
+import Livebetting from "../assets/img/Live-betting1.webp"
 import Comanbtn from './Comanbtn'
 
 const EllosEligieron = () => {

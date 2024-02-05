@@ -1,6 +1,6 @@
 import React from "react";
-import poker from "../assets/img/poker.png";
-import aviator from "../assets/img/Aviator.png";
+import poker from "../assets/img/poker.webp";
+import aviator from "../assets/img/Aviator.webp";
 
 const NuestraVisión = () => {
     return (

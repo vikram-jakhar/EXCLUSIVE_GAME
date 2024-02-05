@@ -1,9 +1,9 @@
-import JetX from '../assets/img/JetX.png'
-import joker from '../assets/img/joker.png'
-import jarvis from '../assets/img/jarvis.png'
-import lucky from '../assets/img/lucky.png'
-import summer from '../assets/img/summer.png'
-import CasinoRIP from '../assets/img/CasinoRIP.png'
+import JetX from '../assets/img/JetX.webp'
+import joker from '../assets/img/joker.webp'
+import jarvis from '../assets/img/jarvis.webp'
+import lucky from '../assets/img/lucky.webp'
+import summer from '../assets/img/summer.webp'
+import CasinoRIP from '../assets/img/CasinoRIP.webp'
 import { Arrow, Arrow2, Bulb, ButtonBottom, Innovación, Proactividad } from './SvgFileOnly'
 import Comanbtntwo from './ComanbtnSec'
 
@@ -22,7 +22,7 @@ const NuestrosAtributos = () => {
         { id: 6, img: CasinoRIP, title: "Innovación", },
     ]
     return (
-        <div className="bg-no-repeat bg-[url(../src/assets/img/bg-white.png)] w-full bg-cover pt-[60px] sm:pt-[243px] pb-[200px]  sm:pb-[400px] overflow-hidden">
+        <div className="bg-no-repeat bg-[url(../src/assets/img/bg-white.webp)] w-full bg-cover pt-[60px] sm:pt-[243px] pb-[200px]  sm:pb-[400px] overflow-hidden">
             <div className=" px-3 mx-auto flex flex-col max-w-[1140px] lg:justify-between">
                 <h2 className='text-[30px] md:text-4xl sm:text-5xl font-semibold max-md:mt-[50px] sm:font-normal font-Anton sm:leading-[57px] text-[#00141B] text-center'>Nuestros Atributos de Marca</h2>
                 <div className="max-lg:grid lg:grid-cols-3 mt-[20px] sm:my-[60px] justify-center gap-[17px] lg:justify-between inline-flex items-center relative">

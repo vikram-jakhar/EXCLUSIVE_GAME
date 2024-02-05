@@ -45,7 +45,7 @@ const AccordionSec = () => {
                     <AccordionBody className="font-inter text-base md:text-[16px] font-medium leading-[160%] text-[#CCD0D1] max-w-[880px] pt-2 pb-0 ">En Exclusive Games, ofrecemos experiencias únicas y personalizadas, respaldadas por más de 15 años de dedicación al desarrollo de multiplataformas para juegos de azar.</AccordionBody>
                 </Accordion>
             </div>
-            <div className='w-full rounded-2xl bg-[url(../src/assets/img/Lanzabgimg.png)] bg-no-repeat bg-cover bg-center border border-[#828F92] py-[40px] sm:py-[100px] mb-[56px] sm:mb-[150px]'>
+            <div className='w-full rounded-2xl bg-[url(../src/assets/img/Lanzabgimg.webp)] bg-no-repeat bg-cover bg-center border border-[#828F92] py-[40px] sm:py-[100px] mb-[56px] sm:mb-[150px]'>
                 <h2 className=' text-[25px] sm:text-[32px] font-anton font-normal leading-[130%] text-white text-center pb-4 sm:pb-10'>Lanza tu propia plataforma en sólo 2 semanas</h2>
                 <div className="flex justify-center">
                     <div className='relative'>
