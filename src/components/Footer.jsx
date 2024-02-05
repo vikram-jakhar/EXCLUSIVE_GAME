@@ -12,17 +12,17 @@ const Footer = () => {
                             <p className='font-inter font-medium text-[16px]  leading-6  max-w-[369px] text-[#CCCCCC] pt-[8px] sm:pt-[16px]'>En Exclusive Games somos un equipo apasionado de personas dedicadas al desarrollo de multiplataformas para juegos de azar</p>
                             <div className=" flex gap-5 pt-3 sm:pt-6">
                                 <a href="https://www.instagram.com/" target="_blank">
-                                    <span className='w-[32px] h-[32px] rounded-[16px] bg-[#292B2B] flex justify-center items-center'>
+                                    <span className='w-[32px] h-[32px] rounded-[16px] bg-[#292B2B] group hover:bg-[black] transition-all duration-300 flex justify-center items-center'>
                                         <Instagram />
                                     </span>
                                 </a>
                                 <a href="https://www.facebook.com/" target="_blank">
-                                    <span className='w-[32px] h-[32px] rounded-[16px] bg-[#292B2B] flex justify-center items-center'>
+                                    <span className='w-[32px] h-[32px] rounded-[16px] bg-[#292B2B] group hover:bg-[black] transition-all duration-300 flex justify-center items-center'>
                                         <Facebook />
                                     </span>
                                 </a>
                                 <a href="https://www.linkedin.com/home?originalSubdomain=in" target="_blank">
-                                    <span className='w-[32px] h-[32px] rounded-[16px] bg-[#292B2B] flex justify-center items-center'>
+                                    <span className='w-[32px] h-[32px] rounded-[16px] bg-[#292B2B] group hover:bg-[black] transition-all duration-300 flex justify-center items-center'>
                                         <Linkedin />
                                     </span>
                                 </a>
@@ -31,26 +31,26 @@ const Footer = () => {
                         <div className='col-span-1 px-3'>
                             <ul>
                                 <li className=' font-inter font-bold text-[16px]  leading-6  text-[#FFFFFF] pt-[10px]'>Menú principal</li>
-                                <li className='pt-1 sm:pt-4'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Hogar</a></li>
-                                <li className='pt-2 sm:pt-4'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Misión</a></li>
-                                <li className='pt-1 sm:pt-3'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Tragamonedas</a></li>
-                                <li className='pt-1 sm:pt-3'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Por qué elegirnos</a></li>
-                                <li className='pt-1 sm:pt-3'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Ofertas</a></li>
+                                <li className='pt-1 sm:pt-4'><a href="#" className=' hover:text-white duration-300 transition-all font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Hogar</a></li>
+                                <li className='pt-2 sm:pt-4'><a href="#" className=' hover:text-white duration-300 transition-all font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Misión</a></li>
+                                <li className='pt-1 sm:pt-3'><a href="#" className=' hover:text-white duration-300 transition-all font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Tragamonedas</a></li>
+                                <li className='pt-1 sm:pt-3'><a href="#" className=' hover:text-white duration-300 transition-all font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Por qué elegirnos</a></li>
+                                <li className='pt-1 sm:pt-3'><a href="#" className=' hover:text-white duration-300 transition-all font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Ofertas</a></li>
                             </ul>
                         </div>
                         <div className='col-span-1 px-3 max-sm:pt-2 sm:pt-0'>
                             <ul>
                                 <li className=' font-inter font-bold text-[16px]  leading-6  text-[#FFFFFF] pt-[10px]'>Atención al cliente</li>
-                                <li className='pt-1 sm:pt-4'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>¿Necesitas ayuda?</a></li>
-                                <li className='pt-1 sm:pt-4'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>política de privacidad</a></li>
-                                <li className='pt-1 sm:pt-3'><a href="#" className=' font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Términos de servicios</a></li>
+                                <li className='pt-1 sm:pt-4'><a href="#" className='  hover:text-white duration-300 transition-all  font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>¿Necesitas ayuda?</a></li>
+                                <li className='pt-1 sm:pt-4'><a href="#" className='  hover:text-white duration-300 transition-all  font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>política de privacidad</a></li>
+                                <li className='pt-1 sm:pt-3'><a href="#" className='  hover:text-white duration-300 transition-all   font-inter font-medium text-[16px] text-[#CCCCCC]  leading-6'>Términos de servicios</a></li>
                             </ul>
                         </div>
                         <div className='col-span-1 px-3 max-sm:pt-2 pt-4 lg:pt-0'>
                             <ul>
                                 <li className=' font-inter font-bold text-[16px]  leading-6  text-[#FFFFFF] pt-[10px]'>Ponerse en contacto</li>
-                                <li className=' '><a href="mailto:juegosexclusivos@gmail.com"><span className=' flex flex-nowrap items-center gap-2 font-inter font-bold text-[16px]  leading-6  text-[#CCCCCC]  pt-[10px]'><span><Mail /></span>juegosexclusivos@gmail.com</span></a></li>
-                                <li className=''><a href="tel:(101)342-7873"><span className=' flex flex-nowrap items-center gap-2 font-inter font-bold text-[16px]  leading-6  text-[#CCCCCC]  pt-[10px]'><span><Phone /></span>(101)342-7873</span></a></li>
+                                <li className=' '><a href="mailto:juegosexclusivos@gmail.com" className=''><span className=' group duration-300 flex flex-nowrap items-center gap-2 font-inter font-bold text-[16px] hover:text-white leading-6  text-[#CCCCCC]  pt-[10px]'><span><Mail /></span>juegosexclusivos@gmail.com</span></a></li>
+                                <li className=''><a href="tel:(101)342-7873"><span className=' group duration-300 flex flex-nowrap items-center gap-2 font-inter font-bold text-[16px]  leading-6 hover:text-white transition-all  text-[#CCCCCC]  pt-[10px]'><span><Phone /></span>(101)342-7873</span></a></li>
                             </ul>
                         </div>
                     </div>

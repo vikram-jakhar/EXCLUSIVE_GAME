@@ -15,7 +15,7 @@ const JuegosVivo = () => {
                             <img src={Jackpot} alt="Jackpot" />
                         </div>
                         <div className='col-span-1'>
-                            <h2 className=' text-[36px] md:text-[48px]font-anton font-normal sm:leading-[57.6px] text-white pt-2 sm:pt-5'>Potenciando sus elecciones</h2>
+                            <h2 className=' text-[36px] md:text-[48px] font-anton font-normal sm:leading-[57.6px] text-white pt-2 sm:pt-5'>Potenciando sus elecciones</h2>
                             <p className=' text-base font-medium font-inter leading-[25.6px] text-[#CDD0D1] pt-1 sm:pt-4'>Con Exclusive Game lo mejor está de tu lado.</p>
                             <span className=' flex sm:items-center gap-2 pt-2 sm:pt-6'>
                                 <DubleTick />
@@ -43,11 +43,11 @@ const JuegosVivo = () => {
                         </div>
                     </div>
                     <div className=' max-w-[1068px] mx-auto px-3 bg-[url(../src/assets/img/Semanasbgimg.webp)] bg-no-repeat bg-center bg-cover min-h-[308px] flex items-center justify-center my-[25px] sm:my-[50px] md:my-[100px] lg:my-[150px] border border-[#fff] rounded-[16px]'>
-                        <h2 className='text-[48px] font-normalfont-anton sm:leading-[57px] text-center text-white max-w-[520px] mx-auto'>lanza tu propia plataforma en sólo 2 semanas</h2>
+                        <h2 className='text-[48px] font-normal font-anton sm:leading-[57px] text-center text-white max-w-[520px] mx-auto'>lanza tu propia plataforma en sólo 2 semanas</h2>
                     </div>
                 </div>
                 <div className=' max-w-[1140px] px-3 mx-auto sm:pb-[100px]'>
-                    <p className='text-[36px] md:text-[48px] font-normalfont-anton leading-[57px] text-center text-white '>Juegos en vivo</p>
+                    <p className='text-[36px] md:text-[48px] font-normal font-anton leading-[57px] text-center text-white '>Juegos en vivo</p>
                     <div className=' grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 pt-4 sm:pt-[60px] gap-2 sm:gap-6'>
                         <div className=' col-span-1 relative w-full duration-300 group items-center'>
                             <img className='w-full rounded-lg' src={Zugi} alt="Zugi" />

@@ -11,7 +11,7 @@ const LuxurySec = () => {
         <div>
             <div className='bg-[#00141B]'>
                 <div className='max-w-[1140px] mx-auto px-3 pt-4 sm:pt-12'>
-                    <div className={`  max-w-[1140px]  bg-[url(../src/assets/img/Luxurybgimg.webp)] relative bg-no-repeat bg-cover bg-center border-[0.5px] border-solid border-[#FFFFFF80] bg-[#062023]`}>
+                    <div className={`  max-w-[1140px]  bg-[url(../src/assets/img/Luxurybgimg.webp)] relative bg-no-repeat bg-cover rounded-2xl bg-center border-[0.5px] border-solid border-[#FFFFFF80] bg-[#062023]`}>
                         <div className=' animate-pulse duration-500 absolute max-sm:hidden bottom-[50px] right-[28px] md:right-[10%] md:bottom-[16%]  lg:right-[15%] lg:bottom-[18%]'>
                             <img src={ludo} alt="ludo" />
                         </div>

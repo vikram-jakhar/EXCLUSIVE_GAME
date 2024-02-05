@@ -8,7 +8,7 @@ const NightCasino = () => {
             <div className="max-w-[1140px] px-3 mx-auto ">
                 <div className=" grid lg:grid-cols-2 grid-cols-1 gap-7 sm:gap-11">
                     <div className=" flex flex-col justify-center">
-                        <h2 className="text-[36px] md:text-[48px] font-normalfont-anton sm:leading-[57px] text-black">
+                        <h2 className="text-[36px] md:text-[48px] font-normal font-anton sm:leading-[57px] text-black">
                             Por qué elegirnos
                         </h2>
                         <p className="text-base font-medium leading-[25px] font-inter text-[#334349] pt-1 sm:pt-4">

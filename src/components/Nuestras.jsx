@@ -13,7 +13,7 @@ const Nuestras = () => {
                     <p className='text-[16px] font-medium font-inter text-white leading-[25.6px] text-center mb-[30px] sm:mb-[60px]'>Te ofrecemos las mejores experiencias de juegos para tus clientes.</p>
 
 
-                    <div className='max-w-[1140px] bg-[#062024] border-[0.5px] border-solid border-[#FFFFFF80]'>
+                    <div className='max-w-[1140px] bg-[#062024] rounded-2xl border-[0.5px] border-solid border-[#FFFFFF80]'>
                         <div className='grid lg:grid-cols-2 px-3 mt-[30px] sm:mt-[57px]'>
                             <div className=' col-span-1 flex justify-center'>
                                 <div>

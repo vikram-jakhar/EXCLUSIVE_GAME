@@ -10,7 +10,7 @@ const NuestraVisión = () => {
                     <div>
                         <img src={poker} alt="poker" />
                     </div>
-                    <h2 className=" text-[30px] sm:text-[48px] font-semibold sm:font-normal font-Anton text-white leading-[57px] pt-5 sm:pt-14">
+                    <h2 className=" text-[30px] sm:text-[48px] font-semibold sm:font-normal font-anton text-white leading-[57px] pt-5 sm:pt-14">
                         Nuestra Visión
                     </h2>
                     <p className="text-[12px] sm:text-base font-Inter font-medium leading-[25px] max-w-[444px] text-[#CCD0D1]">
@@ -25,7 +25,7 @@ const NuestraVisión = () => {
                     </p>
                 </div>
                 <div className=" col-span-1  flex  justify-center flex-col lg:items-start items-center">
-                    <h2 className=" text-[30px] sm:text-[48px] font-normal font-Anton text-white leading-[57px]">
+                    <h2 className=" text-[30px] sm:text-[48px] font-normal font-anton text-white leading-[57px]">
                         Nuestra Misión
                     </h2>
                     <p className=" text-[12px] sm:text-base font-Inter font-medium leading-[25px] max-w-[444px] text-[#CCD0D1]">

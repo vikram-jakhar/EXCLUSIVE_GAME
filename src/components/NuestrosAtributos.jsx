@@ -24,7 +24,7 @@ const NuestrosAtributos = () => {
     return (
         <div className="bg-no-repeat bg-[url(../src/assets/img/bg-white.webp)] w-full bg-cover pt-[60px] sm:pt-[243px] pb-[200px]  sm:pb-[400px] overflow-hidden">
             <div className=" px-3 mx-auto flex flex-col max-w-[1140px] lg:justify-between">
-                <h2 className='text-[30px] md:text-4xl sm:text-5xl font-semibold max-md:mt-[50px] sm:font-normal font-Anton sm:leading-[57px] text-[#00141B] text-center'>Nuestros Atributos de Marca</h2>
+                <h2 className='text-[30px] md:text-4xl sm:text-5xl font-semibold max-md:mt-[50px] sm:font-normal font-anton sm:leading-[57px] text-[#00141B] text-center'>Nuestros Atributos de Marca</h2>
                 <div className="max-lg:grid lg:grid-cols-3 mt-[20px] sm:my-[60px] justify-center gap-[17px] lg:justify-between inline-flex items-center relative">
                     {
                         slotsData.map((items, index) => (
