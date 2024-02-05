@@ -1,5 +1,5 @@
 import React from 'react'
-import Comanbtntwo from './comanbtn2'
+import Comanbtntwo from './ComanbtnSec'
 import Navbar from './Navsec'
 
 

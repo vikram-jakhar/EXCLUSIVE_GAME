@@ -1,6 +1,6 @@
 import { React, useState } from 'react'
 import { Accordion, AccordionHeader, AccordionBody, } from "@material-tailwind/react";
-import Comanbtntwo from './comanbtn2';
+import Comanbtntwo from './ComanbtnSec';
 function Icon({ id, open }) {
     return (
         <div className="relative ">

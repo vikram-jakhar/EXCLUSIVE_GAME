@@ -1,6 +1,6 @@
 import React from 'react'
 import PageLogo from "../assets/img/logo.png"
-import { Facebook, Instagram, Linkedin, Mail, Phone } from './svg'
+import { Facebook, Instagram, Linkedin, Mail, Phone } from './Svg'
 const Footer = () => {
     return (
         <>

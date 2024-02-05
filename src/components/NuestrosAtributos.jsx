@@ -4,8 +4,8 @@ import jarvis from '../assets/img/jarvis.png'
 import lucky from '../assets/img/lucky.png'
 import summer from '../assets/img/summer.png'
 import CasinoRIP from '../assets/img/CasinoRIP.png'
-import { Arrow, Arrow2, Bulb, ButtonBottom, Innovación, Proactividad } from './svg'
-import Comanbtntwo from './comanbtn2'
+import { Arrow, Arrow2, Bulb, ButtonBottom, Innovación, Proactividad } from './Svg'
+import Comanbtntwo from './ComanbtnSec'
 
 const NuestrosAtributos = () => {
     const slotsData = [

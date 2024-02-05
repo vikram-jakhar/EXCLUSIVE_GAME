@@ -1,6 +1,6 @@
 import React from "react";
 import night from "../assets/img/nightCasino.png";
-import Comanbtntwo from "./comanbtn2";
+import Comanbtntwo from "./ComanbtnSec";
 
 const NightCasino = () => {
     return (
