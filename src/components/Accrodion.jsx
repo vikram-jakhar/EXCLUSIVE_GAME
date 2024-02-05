@@ -1,7 +1,6 @@
 import { React, useState } from 'react'
 import { Accordion, AccordionHeader, AccordionBody, } from "@material-tailwind/react";
 import Comanbtntwo from './comanbtn2';
-
 function Icon({ id, open }) {
     return (
         <div className="relative ">
@@ -14,10 +13,8 @@ function Icon({ id, open }) {
         </div>
     );
 }
-
 const AccordionSec = () => {
     const [open, setOpen] = useState(1);
-
     const handleOpen = (value) => setOpen(open === value ? 0 : value);
     return (
         <div className='max-w-[970px] mx-auto px-3'>
@@ -59,5 +56,4 @@ const AccordionSec = () => {
         </div>
     )
 }
-
 export default AccordionSec

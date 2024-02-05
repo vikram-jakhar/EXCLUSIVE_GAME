@@ -16,5 +16,4 @@ const Comanbtn = (props) => {
         </div>
     )
 }
-
 export default Comanbtn

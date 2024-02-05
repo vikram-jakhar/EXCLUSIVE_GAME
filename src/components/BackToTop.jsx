@@ -1,9 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import backtotop from '../assets/img/back-to-top.webp'
-
 const BackToTop = () => {
     const [isVisible, setIsVisible] = useState(false);
-
     useEffect(() => {
         // Add scroll event listener to show/hide the button
         const handleScroll = () => {
@@ -13,22 +11,18 @@ const BackToTop = () => {
                 setIsVisible(false);
             }
         };
-
         window.addEventListener('scroll', handleScroll);
-
         // Remove the event listener on component unmount
         return () => {
             window.removeEventListener('scroll', handleScroll);
         };
     }, []);
-
     const scrollToTop = () => {
         window.scrollTo({
             top: 0,
             behavior: 'smooth',
         });
     };
-
     return (
         <button
             className={`${isVisible ? 'opacity-100' : 'opacity-0'
@@ -39,5 +33,4 @@ const BackToTop = () => {
         </button>
     );
 };
-
 export default BackToTop;

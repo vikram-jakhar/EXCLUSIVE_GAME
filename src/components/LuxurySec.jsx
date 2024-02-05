@@ -66,18 +66,11 @@ const LuxurySec = () => {
                                     <Comanbtntwo text='Comprar ahora' />
                                 </div>
                             </div>
-
                         </div>
                     </div>
-
-
-
                 </div>
-
             </div>
-
         </div>
     )
 }
-
 export default LuxurySec

@@ -37,12 +37,5 @@ const Triplesaven = () => {
                 </div>
             </div></>
     )
-    background: ;
-
 }
-//bg-[ bg-[linear-gradient(306.99deg,rgba(81,200,239,0.5)_-13.72%,rgba(122,245,122,0.5)_102.02%),linear-gradient(306.99deg,rgba(81,200,239,0.04)_-13.72%,rgba(122,245,122,0.04)_102.02%)]]
-//bg-[ linear-gradient(306.99deg,#51C8EF_-13.72%,#7AF57A_102.02%)]
-// background: linear-gradient(306.99deg, #51C8EF -13.72%, #7AF57A 102.02%);
-
-
 export default Triplesaven

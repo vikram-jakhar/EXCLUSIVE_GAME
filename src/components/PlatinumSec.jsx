@@ -34,5 +34,4 @@ const PlatinumSec = () => {
         </div>
     )
 }
-
 export default PlatinumSec

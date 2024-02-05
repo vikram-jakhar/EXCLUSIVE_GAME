@@ -43,5 +43,4 @@ const NuestraVisión = () => {
         </div>
     );
 };
-
 export default NuestraVisión;

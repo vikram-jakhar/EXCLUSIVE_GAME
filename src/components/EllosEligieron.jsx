@@ -37,5 +37,4 @@ const EllosEligieron = () => {
         </div>
     )
 }
-
 export default EllosEligieron

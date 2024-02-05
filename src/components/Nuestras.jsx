@@ -63,6 +63,4 @@ const Nuestras = () => {
         </div>
     )
 }
-
-
 export default Nuestras

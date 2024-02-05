@@ -67,5 +67,4 @@ const NuestrosAtributos = () => {
         </div>
     )
 }
-
 export default NuestrosAtributos

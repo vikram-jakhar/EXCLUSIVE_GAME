@@ -30,5 +30,4 @@ const NightCasino = () => {
         </div>
     );
 };
-
 export default NightCasino;
