@@ -30,4 +30,5 @@ const Lodre = () => {
         </div>
     )
 }
+
 export default Lodre

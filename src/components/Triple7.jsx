@@ -13,7 +13,7 @@ const Triplesaven = () => {
                         </div>
                         <div className=' flex items-center flex-col lg:items-start justify-center'>
                             <h2 className=' text-[26px] sm:text-[38px] md:text-[42px] lg:text-[48px] text-white leading-[57.6px] font-normal  max-w-[537px] text-wrap lg:text-nowrap font-anton'>Más razones para elegirnos</h2>
-                            <div className='flex mt-3 sm:mt-[30px] justify-center items-center sm:w-[374px] w-[300px] gap-4 sm:gap-[37px] px-[10px] py-4 sm:px-[24px] sm:py-[24px] bg-transparent border border-[#39825F] border-solid rounded-[16px]'>
+                            <div className='flex mt-3 sm:mt-[30px] justify-center items-center sm:w-[374px] w-[300px] gap-4 sm:gap-[37px] px-[10px] py-4 sm:px-[24px] sm:py-[24px] bg-transparent border border-[linear-gradient(306.99deg,rgba(81,200,239,0.5)_-13.72%,rgba(122,245,122,0.5)_102.02%)] border-solid rounded-[16px]'>
                                 <span className='flex justify-center items-center bg-[#0F2F28] h-[68px] w-[68px] rounded-[73px]'>
                                     <Bulb />
                                 </span>
@@ -37,5 +37,9 @@ const Triplesaven = () => {
                 </div>
             </div></>
     )
+
+
+
+
 }
 export default Triplesaven
