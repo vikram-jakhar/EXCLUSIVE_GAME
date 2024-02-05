@@ -1,5 +1,5 @@
 import React from 'react'
-import { ButtonBottom } from './Svg'
+import { ButtonBottom } from './SvgFileOnly'
 
 const Comanbtn = (props) => {
     return (
